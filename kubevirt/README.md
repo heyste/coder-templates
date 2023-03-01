@@ -1,8 +1,8 @@
 ---
-name: Kubernetes Conformance Testing 
-description: Get started with Conformance development for the Kubernetes project.
-tags: [cncf]
-icon: /icon/conformance.png
+name: KubeVirt
+description: Use Kubevirt with your Kubernetes development project.
+tags: [ii,kubernetes]
+icon: /icon/kubevirt.png
 ---
 
 # Getting started

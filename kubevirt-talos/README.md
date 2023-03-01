@@ -1,8 +1,8 @@
 ---
-name: Kubernetes Conformance Testing 
-description: Get started with Conformance development for the Kubernetes project.
-tags: [cncf]
-icon: /icon/conformance.png
+name: KubeVirt + Talos
+description: Launch Talos Cluster via Kubevirt.
+tags: [ii,kubernetes]
+icon: /icon/kubevirt-talos.png
 ---
 
 # Getting started
